@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-10-02T10:00:14.607359Z",
+    "question": "What is Artificial Intelligence?",
+    "answer": "Sorry, I couldn't reach the API. Here's a short fallback answer: Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn. Key areas include machine learning, natural language processing, and computer vision.",
+    "error": "Incorrect API key provided: ssk-proj*********************************************************************************************************************************************************PR4A. You can find your API key at https://platform.openai.com/account/api-keys.",
+    "source": "fallback"
+  },
+  {
+    "timestamp": "2025-10-02T10:35:56.380262Z",
+    "question": "What is Artificial Intelligence?",
+    "answer": "Sorry, I couldn't reach the API. Here's a short fallback answer: Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn. Key areas include machine learning, natural language processing, and computer vision.",
+    "error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "source": "fallback"
+  }
+]
