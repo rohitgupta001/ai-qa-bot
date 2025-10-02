@@ -23,14 +23,5 @@ Provides a command-line interface and a small Streamlit UI.
 
 ---
 
-## Setup (step-by-step)
 
-1. Install Python 3.9+ (recommended).  
-   - On Windows: use the official installer from python.org.  
-   - On Mac/Linux: use your package manager.
 
-2. Clone or create the repository:
-   ```bash
-   mkdir ai-qa-bot
-   cd ai-qa-bot
-   # create files from the assignment (or copy)
